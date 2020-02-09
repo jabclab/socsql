@@ -20,3 +20,5 @@ Tips for exercise:
 2. Read the documentation, particularly [this](https://node-postgres.com/) and [this](https://node-postgres.com/features/connecting).
 3. Modify instances of `// TODO: replace_me` (run `grep -rn TODO .` in the directory into which you cloned this repo to find all instances).
 4. Consider using something like [`nodemon`](https://github.com/remy/nodemon) for live reloading of your app as you make edits.
+
+Bootstrap using the `person.sql` file.
